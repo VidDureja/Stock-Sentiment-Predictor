@@ -38,5 +38,4 @@ This project explores whether daily news headlines can help predict if the stock
 - Add plots or dashboards to visualize results
 
 ---
-
-*Made by [Your Name]*
+*Made by Vidhit Dureja*
