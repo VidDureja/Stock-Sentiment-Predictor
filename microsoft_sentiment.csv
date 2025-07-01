@@ -1,0 +1,103 @@
+date,headline,sentiment,label,month
+2025-06-23,Microsoft Confirms Windows 11 Automatic Deletions: Take Action Now To Protect Yourself - Forbes,0.3818,positive,2025-06
+2025-06-22,"I was laid off from Microsoft after 23 years, and I'm still going into the office. I feel responsible for my team and customers. - Business Insider",0.3182,positive,2025-06
+2025-06-23,Microsoft to Cut Thousands of Jobs as AI Spending Surges - Yahoo Finance,-0.2732,negative,2025-06
+2025-06-23,5 must-use Microsoft Edge browser features to save time and money - Fast Company,0.4939,positive,2025-06
+2025-06-23,Microsoft surprises MS-DOS fans with remake of ancient text editor that works on Linux - Ars Technica,0.2263,positive,2025-06
+2025-06-23,Microsoft is changing how drivers arrive via Windows Update - XDA,0.0,neutral,2025-06
+2025-06-22,Closed-Source Meets Open-Source: Microsoft’s Founder Bill Gates and Linux’s Creator Linus Torvalds Cross Paths For The First Time in 50 Years - Wccftech,0.0,neutral,2025-06
+2025-06-23,"Microsoft and IBM Just Hit Fresh Highs. Both Are Still Set for AI-Driven Gains, Analysts Say - Investopedia",0.5719,positive,2025-06
+2025-06-22,"Microsoft gives Israeli employees time off, while Mobileye and others rush to aid displaced workers - CTech",0.0,neutral,2025-06
+2025-06-20,"American workers are stuck in an 'infinite workday,' according to Microsoft report: 'People are feeling very burnt out' - CNBC",-0.128,negative,2025-06
+2025-06-22,"OpenAI makes shocking move amid fierce competition, Microsoft problems - TheStreet",-0.6597,negative,2025-06
+2025-06-20,Don't forget: Microsoft is killing passwords. How to set up a Microsoft passkey before August deadline. - Mashable,-0.5767,negative,2025-06
+2025-06-23,Introducing Mu language model and how it enabled the agent in Windows Settings - Windows Blog,0.0,neutral,2025-06
+2025-06-23,Microsoft adds Steam games to its Xbox PC app on Windows - The Verge,0.0,neutral,2025-06
+2025-06-23,Fireworks & flavors: Use AI to plan your 4th of July menu - Microsoft,0.0,neutral,2025-06
+2025-06-23,Microsoft Is Ditching Passwords for Passkeys: How to Switch Before the August Deadline - CNET,0.0,neutral,2025-06
+2025-06-23,Microsoft tests Xbox app with Battle.net integration — updated app brings third-party game library aggregation - Tom's Hardware,0.0,neutral,2025-06
+2025-06-20,Iranian missile strikes tech park housing Microsoft office in southern Israel - CNN,-0.3612,negative,2025-06
+2025-06-19,Microsoft advances quantum error correction with a family of novel four-dimensional codes - Microsoft Azure,-0.1027,negative,2025-06
+2025-06-23,Microsoft’s Xbox UI update lets you pin games and customize your homescreen - The Verge,0.0,neutral,2025-06
+2025-06-22,Microsoft’s Free Upgrade Deadline For 400 Million Windows Users - Forbes,0.5106,positive,2025-06
+2025-06-21,A $20 billion clock is ticking for OpenAI as Microsoft talks turn fractious - Yahoo Finance,0.0,neutral,2025-06
+2025-06-18,Strengthen business resilience with Windows 365 and Azure Virtual Desktop - Windows Blog,0.3182,positive,2025-06
+2025-06-23,How Microsoft turned ‘copilot’ into a catchall for AI - Fast Company,0.0,neutral,2025-06
+2025-06-17,Breaking down the infinite workday - Microsoft,0.0,neutral,2025-06
+2025-06-19,GIF export in Snipping Tool begins rolling out to Windows Insiders - Windows Blog,0.0,neutral,2025-06
+2025-06-20,Europe’s Growing Fear: How Trump Might Use U.S. Tech Dominance Against It - The New York Times,-0.1779,negative,2025-06
+2025-06-23,Denmark will stick with Windows — government still plans to ditch Microsoft Office - Windows Central,0.0,neutral,2025-06
+2025-06-23,"Microsoft Has Blocked Google Chrome, Windows 11 Users Complain - Forbes",-0.5574,negative,2025-06
+2025-06-19,"Microsoft prepared to abandon high-stakes talks with OpenAI, FT reports - Reuters",-0.25,negative,2025-06
+2025-06-20,Microsoft is blocking Google Chrome through its family safety feature - The Verge,0.0516,positive,2025-06
+2025-06-18,Using deep learning to increase the accuracy of computational chemistry and density functional theory - Microsoft,0.3182,positive,2025-06
+2025-06-20,"Our 2025 Responsible AI Transparency Report: How we build, support our customers, and grow - The Official Microsoft Blog",0.6124,positive,2025-06
+2025-06-18,"Microsoft planning thousands of job cuts aimed at salespeople, Bloomberg News reports - Reuters",-0.296,negative,2025-06
+2025-06-18,Microsoft isn’t done cutting jobs yet: Report says sales roles are next on the chopping block - GeekWire,-0.5267,negative,2025-06
+2025-06-23,"OneDrive user locked out of ""30 years worth of photos and work"" without any support — calls Microsoft a ""Kafkaesque black hole"" - Windows Central",-0.092,negative,2025-06
+2025-06-19,Microsoft 365 brings the shutters down on legacy protocols - theregister.com,0.0,neutral,2025-06
+2025-06-16,Announcing comprehensive sovereign solutions empowering European organizations - The Official Microsoft Blog,0.4019,positive,2025-06
+2025-06-23,"The Zacks Analyst Blog Highlights Palantir, Newmont, NVIDIA, Microsoft and AngloGold Ashanti - Yahoo Finance",0.0,neutral,2025-06
+2025-06-18,Microsoft reportedly planning more mass layoffs - KUOW,0.0,neutral,2025-06
+2025-06-22,"Trump’s plan to ban US states from AI regulation will ‘hold us back’, says Microsoft science chief - The Guardian",-0.5574,negative,2025-06
+2025-06-20,"Stop Using Your Microsoft, Google And Facebook Passwords - Forbes",-0.296,negative,2025-06
+2025-06-23,"From the AI Pin to Microsoft Tay: 5 AI products that ended in disaster, and why they failed - TechRadar",-0.8126,negative,2025-06
+2025-06-19,Microsoft Plans Thousands of Job Cuts. How AI Is Reshaping the Labor Market. - Barron's,-0.296,negative,2025-06
+2025-06-19,Microsoft Starts Deleting Your Passwords In 6 Weeks—Act Now - Forbes,0.0,neutral,2025-06
+2025-06-18,Microsoft Plans to Cut Thousands More Employees - WSJ,-0.2732,negative,2025-06
+2025-06-19,Inside Microsoft’s complicated relationship with OpenAI - The Verge,0.0,neutral,2025-06
+2025-06-22,"Microsoft dropped this CPU for Windows 11, yet it runs these games flawlessly - XDA",0.2023,positive,2025-06
+2025-06-12,Copilot Vision on Windows with Highlights is now available in the U.S. - Microsoft,0.25,positive,2025-06
+2025-06-23,Microsoft Teams is finally fixing one of its most annoying pop-ups - so I might be more productive at work at last - TechRadar,-0.4576,negative,2025-06
+2025-06-23,The Xbox PC app will soon integrate your various game libraries into one place - Engadget,0.0,neutral,2025-06
+2025-06-18,Accurate and scalable exchange-correlation with deep learning - Microsoft,0.0,neutral,2025-06
+2025-06-20,Iranian missile strikes tech park housing Microsoft office in southern Israel - CNN,-0.3612,negative,2025-06
+2025-06-18,"Microsoft Stock Just Hit a Fresh High; Company Plans to Trim Thousands of Jobs, Report Says - Investopedia",0.3182,positive,2025-06
+2025-06-18,Why OpenAI and Microsoft’s AI partnership might be headed for a breakup - Fast Company,0.0,neutral,2025-06
+2025-06-13,Announcing Windows 11 Insider Preview Build 26200.5651 (Dev Channel) - Windows Blog,0.0,neutral,2025-06
+2025-06-22,"Update: Danish ministry only ditching Microsoft Office, but Windows is staying on their PCs - PC Gamer",0.0,neutral,2025-06
+2025-06-23,"Valve remains undefeated: Microsoft will seemingly wear Steam like a jacket with new ""aggregated gaming library"" on Xbox PC app, and ""this is just the beginning"" - GamesRadar+",0.3612,positive,2025-06
+2025-06-18,Microsoft Planning Thousands More Job Cuts Aimed at Salespeople - Bloomberg.com,-0.3566,negative,2025-06
+2025-06-19,Microsoft turned me down twice. Here's what I did differently the third time to get the job. - Business Insider,0.0,neutral,2025-06
+2025-06-23,Microsoft: A Measurable AI Stock With Limited Downside (NASDAQ:MSFT) - Seeking Alpha,-0.4404,negative,2025-06
+2025-06-21,"Podcast: Amazon, Microsoft, and the new realities of AI at work - GeekWire",0.1779,positive,2025-06
+2025-06-18,Microsoft 365 to block file access via legacy auth protocols by default - BleepingComputer,-0.4404,negative,2025-06
+2025-06-23,Microsoft locks out OneDrive user: 30 years of data unaccessible - Notebookcheck,0.0,neutral,2025-06
+2025-06-22,Microsoft Research Reveals We Are Now Working an 'Infinite Workday.' Here's How to Stop the Madness - Inc.com,-0.6249,negative,2025-06
+2025-06-19,"Microsoft to reportedly cut thousands of jobs, focusing on sales teams - Yahoo Finance",-0.2732,negative,2025-06
+2025-06-19,UK's Vodafone names Microsoft's Lopez as new finance chief - Reuters,0.0,neutral,2025-06
+2025-06-21,Microsoft doubles down (again) on European commitments - Data Center Dynamics,0.3818,positive,2025-06
+2025-06-16,Empowering a New Era of Agent-Based Experiences: Upwork and Microsoft Power Platform Partnership - Microsoft,0.0,neutral,2025-06
+2025-06-20,"Iranian missiles strike across Israel, damaging Microsoft office - Middle East Eye",-0.5859,negative,2025-06
+2025-06-18,Microsoft broke DHCP for Windows Server last Patch Tuesday - theregister.com,-0.4215,negative,2025-06
+2025-06-04,Microsoft launches new European Security Program - The Official Microsoft Blog,0.34,positive,2025-06
+2025-06-17,Microsoft's OpenAI partnership is fraying at the seams - Axios,0.0,neutral,2025-06
+2025-06-18,Microsoft just came right out and said that the next Xbox will be a PC - Polygon,0.0,neutral,2025-06
+2025-06-20,"Iran targets Microsoft Be’er Sheva offices, damages residential complex - CTech",-0.4404,negative,2025-06
+2025-06-19,How you can get Microsoft 365 (formerly Office) for free - 3 easy ways - ZDNET,0.7351,positive,2025-06
+2025-06-18,Microsoft prepared to walk away from high-stakes OpenAI talks - Financial Times,0.2263,positive,2025-06
+2025-06-18,"Scammers hijack websites of Bank of America, Netflix, Microsoft, and more to insert fake phone number - Malwarebytes",-0.4703,negative,2025-06
+2025-06-18,Microsoft is planning a harsh message for loyal employees - TheStreet,0.0516,positive,2025-06
+2025-06-20,Microsoft lays out its path to useful quantum computing - Ars Technica,0.4404,positive,2025-06
+2025-06-09,Announcing Windows 11 Insider Preview Build 26200.5641 (Dev Channel) - Windows Blog,0.0,neutral,2025-06
+2025-06-20,ZeniMax and Microsoft ratify union agreement - Engadget,0.4939,positive,2025-06
+2025-06-23,"184 million passwords leaked across Facebook, Google, more: What to know about this data breach - ZDNET",-0.3182,negative,2025-06
+2025-06-17,Microsoft Planetary Computer Pro: Unlocking AI-powered geospatial insights for enterprises across industries - Microsoft Azure,0.0,neutral,2025-06
+2025-06-17,Try This Free Version of Microsoft Office That Runs in Your Browser - WIRED,0.5106,positive,2025-06
+2025-06-19,How sovereign is Microsoft Sovereign Cloud really? - cio.com,0.0,neutral,2025-06
+2025-06-19,More Microsoft layoffs to come this summer - MyNorthwest.com,0.0,neutral,2025-06
+2025-06-20,"'Reliable quantum computing is here': Novel approach to error-correction can reduce errors in future systems up to 1,000 times, Microsoft scientists say - Live Science",-0.0258,neutral,2025-06
+2025-06-20,Microsoft to remove legacy drivers from Windows Update for security boost - BleepingComputer,0.6249,positive,2025-06
+2025-06-17,"If OpenAI and Microsoft Break Up, What Does It Mean for Copilot? Try These AI Alternatives - CNET",0.0,neutral,2025-06
+2025-06-17,Microsoft and AMD announce multi-year Xbox chip deal - Yahoo Finance,0.0,neutral,2025-06
+2025-06-20,"184 million passwords for Google, Microsoft, Facebook, and more leaked in massive data breach - ZDNET",-0.3804,negative,2025-06
+2025-06-20,Microsoft investigates OneDrive bug that breaks file search - BleepingComputer,0.0,neutral,2025-06
+2025-06-20,Tech Moves: Washington broadband head departs; Suplari co-founder leaving Microsoft; and more - GeekWire,0.0,neutral,2025-06
+2025-06-19,Microsoft (NASDAQ: MSFT) Stock Price Prediction for 2025: Where Will It Be in 1 Year - 24/7 Wall St.,0.0,neutral,2025-06
+2025-06-20,Microsoft announces Windows 365 Reserve: Backup cloud PCs for the enterprise - Computerworld,0.0,neutral,2025-06
+2025-06-17,Welcome to the ‘infinite workday’ of 8 p.m. meetings and constant messages - CNN,0.4588,positive,2025-06
+2025-06-17,OpenAI weighs “nuclear option” of antitrust complaint against Microsoft - Ars Technica,-0.296,negative,2025-06
+2025-06-21,Microsoft is blocking Google Chrome in the name of family safety — but this time it actually makes sense - Windows Central,0.0258,neutral,2025-06
+2025-06-20,Microsoft's Family Safety Feature Is Blocking Chrome: Here's the Workaround - CNET,0.0516,positive,2025-06
+2025-06-20,Microsoft Releases WSL 2.6 As The First Open-Source Release - Phoronix,0.0,neutral,2025-06
+2025-06-19,Teams Toolkit Rebranded to Microsoft 365 Agents Toolkit - infoq.com,0.0,neutral,2025-06

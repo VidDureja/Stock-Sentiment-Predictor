@@ -1,0 +1,416 @@
+date,headline,company,sentiment,label,month
+2025-06-23,Microsoft Confirms Windows 11 Automatic Deletions: Take Action Now To Protect Yourself - Forbes,Microsoft,0.3818,positive,2025-06
+2025-06-22,"I was laid off from Microsoft after 23 years, and I'm still going into the office. I feel responsible for my team and customers. - Business Insider",Microsoft,0.3182,positive,2025-06
+2025-06-23,Microsoft to Cut Thousands of Jobs as AI Spending Surges - Yahoo Finance,Microsoft,-0.2732,negative,2025-06
+2025-06-23,5 must-use Microsoft Edge browser features to save time and money - Fast Company,Microsoft,0.4939,positive,2025-06
+2025-06-23,Microsoft surprises MS-DOS fans with remake of ancient text editor that works on Linux - Ars Technica,Microsoft,0.2263,positive,2025-06
+2025-06-23,"Microsoft and IBM Just Hit Fresh Highs. Both Are Still Set for AI-Driven Gains, Analysts Say - Investopedia",Microsoft,0.5719,positive,2025-06
+2025-06-22,"Microsoft gives Israeli employees time off, while Mobileye and others rush to aid displaced workers - CTech",Microsoft,0.0,neutral,2025-06
+2025-06-20,"American workers are stuck in an 'infinite workday,' according to Microsoft report: 'People are feeling very burnt out' - CNBC",Microsoft,-0.128,negative,2025-06
+2025-06-22,"OpenAI makes shocking move amid fierce competition, Microsoft problems - TheStreet",Microsoft,-0.6597,negative,2025-06
+2025-06-20,Don't forget: Microsoft is killing passwords. How to set up a Microsoft passkey before August deadline. - Mashable,Microsoft,-0.5767,negative,2025-06
+2025-06-23,Introducing Mu language model and how it enabled the agent in Windows Settings - Windows Blog,Microsoft,0.0,neutral,2025-06
+2025-06-23,Microsoft adds Steam games to its Xbox PC app on Windows - The Verge,Microsoft,0.0,neutral,2025-06
+2025-06-23,Fireworks & flavors: Use AI to plan your 4th of July menu - Microsoft,Microsoft,0.0,neutral,2025-06
+2025-06-23,Microsoft Is Ditching Passwords for Passkeys: How to Switch Before the August Deadline - CNET,Microsoft,0.0,neutral,2025-06
+2025-06-23,Microsoft tests Xbox app with Battle.net integration — updated app brings third-party game library aggregation - Tom's Hardware,Microsoft,0.0,neutral,2025-06
+2025-06-20,Iranian missile strikes tech park housing Microsoft office in southern Israel - CNN,Microsoft,-0.3612,negative,2025-06
+2025-06-19,Microsoft advances quantum error correction with a family of novel four-dimensional codes - Microsoft Azure,Microsoft,-0.1027,negative,2025-06
+2025-06-23,Microsoft’s Xbox UI update lets you pin games and customize your homescreen - The Verge,Microsoft,0.0,neutral,2025-06
+2025-06-22,Microsoft’s Free Upgrade Deadline For 400 Million Windows Users - Forbes,Microsoft,0.5106,positive,2025-06
+2025-06-21,A $20 billion clock is ticking for OpenAI as Microsoft talks turn fractious - Yahoo Finance,Microsoft,0.0,neutral,2025-06
+2025-06-18,Strengthen business resilience with Windows 365 and Azure Virtual Desktop - Windows Blog,Microsoft,0.3182,positive,2025-06
+2025-06-23,How Microsoft turned ‘copilot’ into a catchall for AI - Fast Company,Microsoft,0.0,neutral,2025-06
+2025-06-17,Breaking down the infinite workday - Microsoft,Microsoft,0.0,neutral,2025-06
+2025-06-19,GIF export in Snipping Tool begins rolling out to Windows Insiders - Windows Blog,Microsoft,0.0,neutral,2025-06
+2025-06-20,Europe’s Growing Fear: How Trump Might Use U.S. Tech Dominance Against It - The New York Times,Microsoft,-0.1779,negative,2025-06
+2025-06-22,Closed-Source Meets Open-Source: Microsoft’s Founder Bill Gates and Linux’s Creator Linus Torvalds Cross Paths For The First Time in 50 Years - Wccftech,Microsoft,0.0,neutral,2025-06
+2025-06-23,Denmark will stick with Windows — government still plans to ditch Microsoft Office - Windows Central,Microsoft,0.0,neutral,2025-06
+2025-06-19,"Microsoft prepared to abandon high-stakes talks with OpenAI, FT reports - Reuters",Microsoft,-0.25,negative,2025-06
+2025-06-20,Microsoft is blocking Google Chrome through its family safety feature - The Verge,Microsoft,0.0516,positive,2025-06
+2025-06-23,"Microsoft Has Blocked Google Chrome, Windows 11 Users Complain - Forbes",Microsoft,-0.5574,negative,2025-06
+2025-06-18,Using deep learning to increase the accuracy of computational chemistry and density functional theory - Microsoft,Microsoft,0.3182,positive,2025-06
+2025-06-20,"Our 2025 Responsible AI Transparency Report: How we build, support our customers, and grow - The Official Microsoft Blog",Microsoft,0.6124,positive,2025-06
+2025-06-18,"Microsoft planning thousands of job cuts aimed at salespeople, Bloomberg News reports - Reuters",Microsoft,-0.296,negative,2025-06
+2025-06-18,Microsoft isn’t done cutting jobs yet: Report says sales roles are next on the chopping block - GeekWire,Microsoft,-0.5267,negative,2025-06
+2025-06-23,"OneDrive user locked out of ""30 years worth of photos and work"" without any support — calls Microsoft a ""Kafkaesque black hole"" - Windows Central",Microsoft,-0.092,negative,2025-06
+2025-06-19,Microsoft 365 brings the shutters down on legacy protocols - theregister.com,Microsoft,0.0,neutral,2025-06
+2025-06-16,Announcing comprehensive sovereign solutions empowering European organizations - The Official Microsoft Blog,Microsoft,0.4019,positive,2025-06
+2025-06-18,Microsoft reportedly planning more mass layoffs - KUOW,Microsoft,0.0,neutral,2025-06
+2025-06-23,"The Zacks Analyst Blog Highlights Palantir, Newmont, NVIDIA, Microsoft and AngloGold Ashanti - Yahoo Finance",Microsoft,0.0,neutral,2025-06
+2025-06-22,"Trump’s plan to ban US states from AI regulation will ‘hold us back’, says Microsoft science chief - The Guardian",Microsoft,-0.5574,negative,2025-06
+2025-06-19,Microsoft Starts Deleting Your Passwords In 6 Weeks—Act Now - Forbes,Microsoft,0.0,neutral,2025-06
+2025-06-20,"Stop Using Your Microsoft, Google And Facebook Passwords - Forbes",Microsoft,-0.296,negative,2025-06
+2025-06-19,Microsoft Plans Thousands of Job Cuts. How AI Is Reshaping the Labor Market. - Barron's,Microsoft,-0.296,negative,2025-06
+2025-06-23,"From the AI Pin to Microsoft Tay: 5 AI products that ended in disaster, and why they failed - TechRadar",Microsoft,-0.8126,negative,2025-06
+2025-06-18,Microsoft Plans to Cut Thousands More Employees - WSJ,Microsoft,-0.2732,negative,2025-06
+2025-06-19,Inside Microsoft’s complicated relationship with OpenAI - The Verge,Microsoft,0.0,neutral,2025-06
+2025-06-22,"Microsoft dropped this CPU for Windows 11, yet it runs these games flawlessly - XDA",Microsoft,0.2023,positive,2025-06
+2025-06-12,Copilot Vision on Windows with Highlights is now available in the U.S. - Microsoft,Microsoft,0.25,positive,2025-06
+2025-06-23,The Xbox PC app will soon integrate your various game libraries into one place - Engadget,Microsoft,0.0,neutral,2025-06
+2025-06-23,Microsoft Teams is finally fixing one of its most annoying pop-ups - so I might be more productive at work at last - TechRadar,Microsoft,-0.4576,negative,2025-06
+2025-06-18,Accurate and scalable exchange-correlation with deep learning - Microsoft,Microsoft,0.0,neutral,2025-06
+2025-06-20,Iranian missile strikes tech park housing Microsoft office in southern Israel - CNN,Microsoft,-0.3612,negative,2025-06
+2025-06-18,"Microsoft Stock Just Hit a Fresh High; Company Plans to Trim Thousands of Jobs, Report Says - Investopedia",Microsoft,0.3182,positive,2025-06
+2025-06-18,Why OpenAI and Microsoft’s AI partnership might be headed for a breakup - Fast Company,Microsoft,0.0,neutral,2025-06
+2025-06-13,Announcing Windows 11 Insider Preview Build 26200.5651 (Dev Channel) - Windows Blog,Microsoft,0.0,neutral,2025-06
+2025-06-22,"Update: Danish ministry only ditching Microsoft Office, but Windows is staying on their PCs - PC Gamer",Microsoft,0.0,neutral,2025-06
+2025-06-23,Microsoft is changing how drivers arrive via Windows Update - XDA,Microsoft,0.0,neutral,2025-06
+2025-06-23,"Valve remains undefeated: Microsoft will seemingly wear Steam like a jacket with new ""aggregated gaming library"" on Xbox PC app, and ""this is just the beginning"" - GamesRadar+",Microsoft,0.3612,positive,2025-06
+2025-06-18,Microsoft Planning Thousands More Job Cuts Aimed at Salespeople - Bloomberg.com,Microsoft,-0.3566,negative,2025-06
+2025-06-19,Microsoft turned me down twice. Here's what I did differently the third time to get the job. - Business Insider,Microsoft,0.0,neutral,2025-06
+2025-06-21,"Podcast: Amazon, Microsoft, and the new realities of AI at work - GeekWire",Microsoft,0.1779,positive,2025-06
+2025-06-18,Microsoft 365 to block file access via legacy auth protocols by default - BleepingComputer,Microsoft,-0.4404,negative,2025-06
+2025-06-23,Microsoft: A Measurable AI Stock With Limited Downside (NASDAQ:MSFT) - Seeking Alpha,Microsoft,-0.4404,negative,2025-06
+2025-06-23,Microsoft locks out OneDrive user: 30 years of data unaccessible - Notebookcheck,Microsoft,0.0,neutral,2025-06
+2025-06-02,Announcing a new strategic collaboration to bring clarity to threat actor naming - Microsoft,Microsoft,-0.1779,negative,2025-06
+2025-06-22,Microsoft Research Reveals We Are Now Working an 'Infinite Workday.' Here's How to Stop the Madness - Inc.com,Microsoft,-0.6249,negative,2025-06
+2025-06-19,"Microsoft to reportedly cut thousands of jobs, focusing on sales teams - Yahoo Finance",Microsoft,-0.2732,negative,2025-06
+2025-06-19,UK's Vodafone names Microsoft's Lopez as new finance chief - Reuters,Microsoft,0.0,neutral,2025-06
+2025-06-16,Empowering a New Era of Agent-Based Experiences: Upwork and Microsoft Power Platform Partnership - Microsoft,Microsoft,0.0,neutral,2025-06
+2025-06-21,Microsoft doubles down (again) on European commitments - Data Center Dynamics,Microsoft,0.3818,positive,2025-06
+2025-06-20,"Iranian missiles strike across Israel, damaging Microsoft office - Middle East Eye",Microsoft,-0.5859,negative,2025-06
+2025-06-18,Microsoft broke DHCP for Windows Server last Patch Tuesday - theregister.com,Microsoft,-0.4215,negative,2025-06
+2025-06-04,Microsoft launches new European Security Program - The Official Microsoft Blog,Microsoft,0.34,positive,2025-06
+2025-06-17,Microsoft's OpenAI partnership is fraying at the seams - Axios,Microsoft,0.0,neutral,2025-06
+2025-06-20,"Iran targets Microsoft Be’er Sheva offices, damages residential complex - CTech",Microsoft,-0.4404,negative,2025-06
+2025-06-18,Microsoft just came right out and said that the next Xbox will be a PC - Polygon,Microsoft,0.0,neutral,2025-06
+2025-06-19,How you can get Microsoft 365 (formerly Office) for free - 3 easy ways - ZDNET,Microsoft,0.7351,positive,2025-06
+2025-06-18,Microsoft prepared to walk away from high-stakes OpenAI talks - Financial Times,Microsoft,0.2263,positive,2025-06
+2025-06-18,"Scammers hijack websites of Bank of America, Netflix, Microsoft, and more to insert fake phone number - Malwarebytes",Microsoft,-0.4703,negative,2025-06
+2025-06-18,Microsoft is planning a harsh message for loyal employees - TheStreet,Microsoft,0.0516,positive,2025-06
+2025-06-20,Microsoft lays out its path to useful quantum computing - Ars Technica,Microsoft,0.4404,positive,2025-06
+2025-06-09,Announcing Windows 11 Insider Preview Build 26200.5641 (Dev Channel) - Windows Blog,Microsoft,0.0,neutral,2025-06
+2025-06-20,ZeniMax and Microsoft ratify union agreement - Engadget,Microsoft,0.4939,positive,2025-06
+2025-06-23,"184 million passwords leaked across Facebook, Google, more: What to know about this data breach - ZDNET",Microsoft,-0.3182,negative,2025-06
+2025-06-17,Microsoft Planetary Computer Pro: Unlocking AI-powered geospatial insights for enterprises across industries - Microsoft Azure,Microsoft,0.0,neutral,2025-06
+2025-06-17,Try This Free Version of Microsoft Office That Runs in Your Browser - WIRED,Microsoft,0.5106,positive,2025-06
+2025-06-19,How sovereign is Microsoft Sovereign Cloud really? - cio.com,Microsoft,0.0,neutral,2025-06
+2025-06-19,More Microsoft layoffs to come this summer - MyNorthwest.com,Microsoft,0.0,neutral,2025-06
+2025-06-20,"'Reliable quantum computing is here': Novel approach to error-correction can reduce errors in future systems up to 1,000 times, Microsoft scientists say - Live Science",Microsoft,-0.0258,neutral,2025-06
+2025-06-20,Microsoft to remove legacy drivers from Windows Update for security boost - BleepingComputer,Microsoft,0.6249,positive,2025-06
+2025-06-17,"If OpenAI and Microsoft Break Up, What Does It Mean for Copilot? Try These AI Alternatives - CNET",Microsoft,0.0,neutral,2025-06
+2025-06-20,"184 million passwords for Google, Microsoft, Facebook, and more leaked in massive data breach - ZDNET",Microsoft,-0.3804,negative,2025-06
+2025-06-17,Microsoft and AMD announce multi-year Xbox chip deal - Yahoo Finance,Microsoft,0.0,neutral,2025-06
+2025-06-20,Microsoft investigates OneDrive bug that breaks file search - BleepingComputer,Microsoft,0.0,neutral,2025-06
+2025-06-20,Tech Moves: Washington broadband head departs; Suplari co-founder leaving Microsoft; and more - GeekWire,Microsoft,0.0,neutral,2025-06
+2025-06-19,Microsoft (NASDAQ: MSFT) Stock Price Prediction for 2025: Where Will It Be in 1 Year - 24/7 Wall St.,Microsoft,0.0,neutral,2025-06
+2025-06-20,Microsoft announces Windows 365 Reserve: Backup cloud PCs for the enterprise - Computerworld,Microsoft,0.0,neutral,2025-06
+2025-06-17,Welcome to the ‘infinite workday’ of 8 p.m. meetings and constant messages - CNN,Microsoft,0.4588,positive,2025-06
+2025-06-17,OpenAI weighs “nuclear option” of antitrust complaint against Microsoft - Ars Technica,Microsoft,-0.296,negative,2025-06
+2025-06-21,Microsoft is blocking Google Chrome in the name of family safety — but this time it actually makes sense - Windows Central,Microsoft,0.0258,neutral,2025-06
+2025-06-21,When Will Apple Launch The Next MacBook Pro? - Forbes,Apple,0.0,neutral,2025-06
+2025-06-23,Apple keeps pulling its own ads - The Verge,Apple,0.0,neutral,2025-06
+2025-06-23,One of Apple’s best laptops is now over $900 off - SFGATE,Apple,0.6369,positive,2025-06
+2025-06-22,"EU stickers show how iPhones compare to other phones, Apple not happy with the test methodologies - GSMArena.com news - GSMArena.com",Apple,-0.4585,negative,2025-06
+2025-06-22,"Apple Loop: iPhone 17 Pro Release Date, Apple Challenges AI Assumptions, iPad Pro Multitasking Explained - Forbes",Apple,0.0772,positive,2025-06
+2025-06-23,Apple is under pressure to deliver a hit iPhone - Axios,Apple,-0.296,negative,2025-06
+2025-06-23,Apple read your mean tweets about Liquid Glass and Finder - Engadget,Apple,0.0,neutral,2025-06
+2025-06-23,Phew: Apple fixed the Finder icon in macOS Tahoe 26 - The Verge,Apple,0.0,neutral,2025-06
+2025-06-21,Apple is reportedly considering the acquisition of Perplexity AI - Engadget,Apple,0.0,neutral,2025-06
+2025-06-23,"Jim Cramer says Apple needs to change course — plus, he highlights 2 stocks to buy now - CNBC",Apple,0.0,neutral,2025-06
+2025-06-22,Apple Seals Movie Deal With Media Mogul Peter Chernin - Bloomberg.com,Apple,0.0,neutral,2025-06
+2025-06-23,Chernin Entertainment Signs First-Look Film Deal With Apple TV+ - The Hollywood Reporter,Apple,0.4215,positive,2025-06
+2025-06-22,Apple TV+ Signs First-Look Film Deal with North Road’s Chernin Entertainment - IndieWire,Apple,0.4215,positive,2025-06
+2025-06-22,Delete This Message From Apple Or Google—It’s An Attack - Forbes,Apple,-0.4767,negative,2025-06
+2025-06-23,Your Apple Watch is getting a big upgrade for free - 8 features I can't wait to use on WatchOS 26 - ZDNET,Apple,0.5106,positive,2025-06
+2025-06-21,"I walked 5,500 steps with the Apple Watch 10 vs Garmin Forerunner 570 — here's the winner - Tom's Guide",Apple,0.5859,positive,2025-06
+2025-06-22,The Suunto Ocean is an Apple Watch Ultra 2 rival in the scuba stakes – and it's more eco-friendly too - TechRadar,Apple,0.0,neutral,2025-06
+2025-06-23,"16 billion password data breach hits Apple, Google, Facebook and more — LIVE updates and how to stay safe - Tom's Guide",Apple,0.4404,positive,2025-06
+2025-06-23,16 billion passwords exposed in record-breaking data breach: are you affected? - Cybernews,Apple,-0.2263,negative,2025-06
+2025-06-23,Apple iOS 26: Everything you need to know about the next iPhone operating system - Engadget,Apple,0.0,neutral,2025-06
+2025-06-23,"tvOS 26 beta 2 is now available with Apple TV app redesign, more - 9to5Mac",Apple,0.0,neutral,2025-06
+2025-06-23,Is an apple a day really good for your health? - BBC,Apple,0.4927,positive,2025-06
+2025-06-23,The afterlife of Apple Accounts (and others) - Six Colors,Apple,0.0,neutral,2025-06
+2025-06-23,Apple’s Liquid Glass interface improves with release of iOS 26 Beta 2 - TechCrunch,Apple,0.4215,positive,2025-06
+2025-06-23,"Early Prime Day Deals on Apple AirPods, iPads, Smartwatches, and More - PCMag",Apple,0.0,neutral,2025-06
+2025-06-23,Apple Reportedly Negotiating to Stave Off EU App Store Fines - PYMNTS.com,Apple,0.0,neutral,2025-06
+2025-06-23,Is Apple Looking To Catch Up In AI With Big Deal? - Investor's Business Daily,Apple,0.0,neutral,2025-06
+2025-06-23,Oregon apple farm that inspired Steve Jobs for sale at $5M - OregonLive.com,Apple,0.4939,positive,2025-06
+2025-06-23,Apple heard your complaints about the Liquid Glass Control Center - The Verge,Apple,-0.4019,negative,2025-06
+2025-06-23,Apple releases watchOS 26 beta 2 - 9to5Mac,Apple,0.0,neutral,2025-06
+2025-06-23,Your Apple TV is getting a big upgrade for free - 5 features I can't wait to use on TVOS 26 - ZDNET,Apple,0.5106,positive,2025-06
+2025-06-23,My Apple Watch band gave out before year two - and it could've been bad - ZDNET,Apple,-0.5423,negative,2025-06
+2025-06-23,Apple’s USB-C EarPods are an even better buy at just $15.99 - The Verge,Apple,0.4404,positive,2025-06
+2025-06-23,"Apple iPhone 17 Series Will Showcase ‘Design Revamp,’ New Report Claims - Forbes",Apple,0.0,neutral,2025-06
+2025-06-23,Apple releases new beta builds of all its flashy new Liquid Glass-ified OS updates - Ars Technica,Apple,0.0,neutral,2025-06
+2025-06-20,Apple sued by shareholders for allegedly overstating AI progress - Reuters,Apple,0.4215,positive,2025-06
+2025-06-23,Apple Seeds Second Beta of macOS Tahoe - MacRumors,Apple,0.0,neutral,2025-06
+2025-06-23,New iPad features blur the line between tablet and laptop computing - Boing Boing,Apple,0.0,neutral,2025-06
+2025-06-22,Apple is looking into buying Perplexity AI - Mashable,Apple,0.0,neutral,2025-06
+2025-06-23,iOS 26 beta 2 adds new Apple Music widget for your Home Screen - 9to5Mac,Apple,0.0,neutral,2025-06
+2025-06-23,Electronics shop owner busted after selling hundreds of counterfeit Apple products - AppleInsider,Apple,0.0,neutral,2025-06
+2025-06-23,"Apple's second developer betas for iOS 26, iPadOS 26, macOS 26 have arrived - AppleInsider",Apple,0.0,neutral,2025-06
+2025-06-23,"June 23, 2025 – Apple and Perplexity rumors, more - 9to5Mac",Apple,0.0,neutral,2025-06
+2025-06-23,"iPhones, iPads Sold in EU Now Have Energy Labels: What Are Apple’s Ratings? - TechRepublic",Apple,0.2732,positive,2025-06
+2025-06-23,This Traveler Almost Received an $800 Fine and Lost Global Entry Over an Apple - Travel + Leisure,Apple,-0.128,negative,2025-06
+2025-06-23,Where stock market's safety trade has moved now that Apple is no longer it - CNBC,Apple,0.1531,positive,2025-06
+2025-06-23,Amazon Canada has a rare deal on Apple AirPods Pro 2 — save $70 ahead of Prime Day 2025 - Yahoo,Apple,0.5994,positive,2025-06
+2025-06-23,"Apple exec and former EPA head: To spark climate action, find the people who are inspired - Stanford Doerr School of Sustainability",Apple,0.6249,positive,2025-06
+2025-06-23,iPhone 17 Air possibly leaked by the latest iOS 26 beta - Boy Genius Report,Apple,-0.3182,negative,2025-06
+2025-06-23,Apple Seeds Second Developer Betas of iOS 26 and iPadOS 26 - MacRumors,Apple,0.0,neutral,2025-06
+2025-06-09,Apple elevates the iPhone experience with iOS 26 - Apple,Apple,0.0,neutral,2025-06
+2025-06-23,"Zacks Investment Ideas feature highlights: NVIDIA, Apple, Alphabet, Meta Platforms and Advanced Micro Devices - Yahoo Finance",Apple,0.25,positive,2025-06
+2025-06-21,"Apple executives held internal talks about buying Perplexity, Bloomberg News reports - Reuters",Apple,0.0,neutral,2025-06
+2025-06-20,"The best Apple deals you can get right now: Save on AirPods, iPads, MacBooks and more - Engadget",Apple,0.8126,positive,2025-06
+2025-06-23,Apple releases developer beta 2 for visionOS 26 - 9to5Mac,Apple,0.0,neutral,2025-06
+2025-06-20,Apple Executives Have Held Internal Talks About Buying AI Startup Perplexity - Bloomberg.com,Apple,0.0,neutral,2025-06
+2025-06-23,"THROWBACK: Grace A. Dow Library, built in apple orchard, marks 70 years - Midland Daily News",Apple,0.4215,positive,2025-06
+2025-06-23,Apple releases new beta builds of all its operating systems - MacDailyNews,Apple,0.0,neutral,2025-06
+2025-06-09,Apple introduces a delightful and elegant new software design - Apple,Apple,0.7845,positive,2025-06
+2025-06-23,Rumor: Apple may make a bold and expensive AI acquisition - Boy Genius Report,Apple,0.3818,positive,2025-06
+2025-06-22,Apple Removes Ad That Tells College Students to Dump Windows PCs for Macs - PCMag,Apple,-0.3818,negative,2025-06
+2025-06-23,"Apple looked at Mira Murati’s AI startup after OpenAI exit, and it won’t stop there - 9to5Mac",Apple,-0.296,negative,2025-06
+2025-06-23,Apple Crashes Tech’s Formula One Party as Money Behind ‘F1’ - Bloomberg.com,Apple,0.4019,positive,2025-06
+2025-06-23,Apple faces shareholder lawsuit over alleged AI misrepresentation - Yahoo Finance,Apple,-0.5994,negative,2025-06
+2025-06-23,"Malware on Google Play, Apple App Store stole your photos—and crypto - BleepingComputer",Apple,0.34,positive,2025-06
+2025-06-23,"Apple Seeds Second watchOS 26, tvOS 26, and visionOS 26 Developer Betas - MacRumors",Apple,0.0,neutral,2025-06
+2025-06-22,Apple is reportedly considering buying Perplexity AI in iPhone maker's biggest-ever acquisition - Tom's Guide,Apple,0.0,neutral,2025-06
+2025-06-23,Apple tweaks Control Center visibility in iOS 26 beta 2 - 9to5Mac,Apple,0.0,neutral,2025-06
+2025-06-23,Apple releases iOS 26 beta 2 - 9to5Mac,Apple,0.0,neutral,2025-06
+2025-06-23,Apple Is Under Pressure To Deliver a Hit iPhone — But Investors Should Know This Too - TradingView,Apple,-0.1531,negative,2025-06
+2025-06-23,Report: Apple to Announce More App Store Concessions for the EU - MacRumors,Apple,0.0,neutral,2025-06
+2025-06-23,F1 the Movie review: A shameless Apple ad that will blow your socks off - Engadget,Apple,-0.34,negative,2025-06
+2025-06-23,Apple Research just unearthed a forgotten AI technique and is using it to generate images - 9to5Mac,Apple,-0.2263,negative,2025-06
+2025-06-18,"Apple eyes using AI to design its chips, technology executive says - Reuters",Apple,0.0,neutral,2025-06
+2025-06-23,Just installed iOS 18.5 on your iPhone? I would change these 6 settings first - ZDNET,Apple,0.0,neutral,2025-06
+2025-06-23,Will Apple Release an iPhone 17e? Here's What We Know - MacRumors,Apple,0.0,neutral,2025-06
+2025-06-23,N.J. electronics store owner charged with selling more than 100 fake Apple products - MacDailyNews,Apple,-0.6326,negative,2025-06
+2025-06-23,Apple Cup Cafe to live on at new Woodin Avenue location after fire - ncwlife.com,Apple,-0.34,negative,2025-06
+2025-06-20,Apple's Mac mini M4 drops to a new record-low price - Engadget,Apple,0.0,neutral,2025-06
+2025-06-23,"The 390-acre property with a main house, guest house and outbuildings at 11890 S.W. Dupee Valley Road. - OregonLive.com",Apple,0.0,neutral,2025-06
+2025-06-20,"Apple executives held internal talks about buying Perplexity, Bloomberg News reports - Yahoo Finance",Apple,0.0,neutral,2025-06
+2025-06-23,Apple Cup Cafe reborn on Woodin Ave after fire - ncwlife.com,Apple,-0.34,negative,2025-06
+2025-06-23,Apple Releases macOS Tahoe 26 Beta 2 to Developers [Download] - iClarified,Apple,0.0,neutral,2025-06
+2025-06-23,New Yorkers try to beat the heat as triple-digit temps bake the Big Apple - New York Post,Apple,0.0,neutral,2025-06
+2025-06-23,"Zacks Investment Ideas feature highlights: Jabil, Apple, Amazon, Johnson & Johnson and Ericsson - Yahoo Finance",Apple,0.1779,positive,2025-06
+2025-06-23,Report: Apple to announce 'some' App Store changes in the EU to avoid additional DMA fines - 9to5Mac,Apple,-0.296,negative,2025-06
+2025-06-23,"Enterprise hits and misses - Apple's AI reasoning paper yields enterprise lessons, privacy breaches are (sometimes) on us, and the Spatial Web is here - Diginomica",Apple,-0.2263,negative,2025-06
+2025-06-23,N.J. electronics store owner charged with selling fake Apple products - NJ.com,Apple,-0.5994,negative,2025-06
+2025-06-19,iPhone 'Flip': The Apple Foldable Is Still Rumored To Come in 2026 - CNET,Apple,0.0,neutral,2025-06
+2025-06-20,Apple vs. generative AI: Who needs who? - ZDNET,Apple,0.0,neutral,2025-06
+2025-06-20,"Matthew McConaughey, Woody Harrelson Apple Comedy Series Pauses Production as Showrunner Exits - Variety",Apple,0.3612,positive,2025-06
+2025-06-23,"Apple starts fixing bugs with iOS 26 beta 2, now rolling out to developers - The Shortcut | Matt Swider",Apple,0.0,neutral,2025-06
+2025-06-20,The best Apple deals you can shop ahead of Amazon Prime Day 2025 - The Verge,Apple,0.7096,positive,2025-06
+2025-06-22,"Apple TV+ Inks Multi-Year, First-Look Film Deal With The North Road Company’s Chernin Entertainment - Deadline",Apple,0.4215,positive,2025-06
+2025-06-23,Apple’s AI-Powered Chip Design Revolution - BBN Times,Apple,0.0,neutral,2025-06
+2025-06-22,7 Apple TV 4K settings to change now for the best results - Tom's Guide,Apple,0.6369,positive,2025-06
+2025-06-23,Apple Pulls Ad Campaign Fronted By SNL Star Just One Day After Its Debut - LateNighter,Apple,0.0,neutral,2025-06
+2025-06-23,Apple Keeps Pulling Its Own Ads — But That’s Not the Only Story Investors Should Watch - TradingView,Apple,0.0,neutral,2025-06
+2025-06-23,"T-Mobile launching T-Satellite with Starlink next month, working with Apple on ‘satellite-optimized apps’ - 9to5Mac",Apple,0.0,neutral,2025-06
+2025-06-19,"It wasn't just you, Apple Intelligence was down - AppleInsider",Apple,0.4767,positive,2025-06
+2025-06-23,Will ‘F1’ Finally Give Apple a Box Office Hit? - TheWrap,Apple,0.0,neutral,2025-06
+2025-06-21,Apple Pulls 'Convince Your Parents to Get You a Mac' Ad From YouTube - MacRumors,Apple,0.25,positive,2025-06
+2025-06-20,Apple’s tiny M4 Mac Mini has dropped to its lowest price yet - The Verge,Apple,-0.3818,negative,2025-06
+2025-06-22,"Were 16 billion passwords from Apple, Google, and Facebook leaked? How to protect yourself - ZDNET",Apple,0.0772,positive,2025-06
+2025-06-23,iOS 26’s Second Beta Tones Down the Liquid Glass Effect - Lifehacker,Apple,0.0,neutral,2025-06
+2025-06-23,Apple’s iPhone 17 Design Revamp Is Coming — But That’s Not the Only Major Update - TradingView,Apple,0.0,neutral,2025-06
+2025-06-10,Apple services deliver powerful features and intelligent updates to users this fall - Apple,Apple,0.7003,positive,2025-06
+2025-06-23,Apple (AAPL) in Last-Minute Talks With EU to Avoid Daily Digital Fines - TipRanks,Apple,-0.296,negative,2025-06
+2025-06-23,Google Cuts Smart TV Budget as It Doubles Down on YouTube - The Information,Google,0.128,positive,2025-06
+2025-06-23,Google TV hit with budget cuts as focus shifts to YouTube - Android Police,Google,-0.296,negative,2025-06
+2025-06-23,Hisense’s new 165Hz VRR U7 Google Smart TV upgrades your game room from $698 Amazon low (Up to $600 off) - 9to5Toys,Google,0.3182,positive,2025-06
+2025-06-23,Google Confirms Most Gmail Users Must Upgrade All Their Accounts - Forbes,Google,0.0,neutral,2025-06
+2025-06-22,"Were 16 billion passwords from Apple, Google, and Facebook leaked? How to protect yourself - ZDNET",Google,0.0772,positive,2025-06
+2025-06-20,"16 billion Google, Apple and other passwords leaked in record data breach: What you need to know - New York Post",Google,-0.3182,negative,2025-06
+2025-06-23,Could The HP Dimension With Google Beam Shake Up Videoconferencing? - Forbes,Google,-0.1779,negative,2025-06
+2025-06-23,Ask a techspert: What is inference? - Google Blog,Google,0.0,neutral,2025-06
+2025-06-22,Is ChatGPT Catching Google on Search Activity? [Infographic] - Yahoo Finance,Google,0.0,neutral,2025-06
+2025-06-23,Google advertising exec oversees rapid change - Fortune,Google,0.0,neutral,2025-06
+2025-06-20,"16 billion login credentials from Google and other sites leaked online, report says - CBS News",Google,-0.3182,negative,2025-06
+2025-06-23,Google Adds Multi-Layered Defenses to Secure GenAI from Prompt Injection Attacks - The Hacker News,Google,0.0516,positive,2025-06
+2025-06-23,Pontypool homeowner uses Google Earth to win decking planning row - BBC,Google,0.5859,positive,2025-06
+2025-06-21,A Google engineer's advice to computer science students: Go where the hiring bar is lower and get your foot in the door - Business Insider,Google,-0.296,negative,2025-06
+2025-06-23,16 billion passwords exposed in record-breaking data breach: are you affected? - Cybernews,Google,-0.2263,negative,2025-06
+2025-06-23,"Our most advanced Chromebook Plus yet, and new helpful AI features - Google Blog",Google,0.624,positive,2025-06
+2025-06-23,ChatGPT's Impact On Our Brains According to an MIT Study - Time Magazine,Google,0.0,neutral,2025-06
+2025-06-23,"Microsoft Has Blocked Google Chrome, Windows 11 Users Complain - Forbes",Google,-0.5574,negative,2025-06
+2025-06-23,"16 billion password data breach hits Apple, Google, Facebook and more — LIVE updates and how to stay safe - Tom's Guide",Google,0.4404,positive,2025-06
+2025-06-23,Google adds AI features to Chromebook Plus devices - TechCrunch,Google,0.0,neutral,2025-06
+2025-06-23,"Google brings new Gemini features to Chromebooks, debuts first on-device AI - Ars Technica",Google,0.0,neutral,2025-06
+2025-06-23,"184 million passwords leaked across Facebook, Google, more: What to know about this data breach - ZDNET",Google,-0.3182,negative,2025-06
+2025-06-23,"Malware on Google Play, Apple App Store stole your photos—and crypto - BleepingComputer",Google,0.34,positive,2025-06
+2025-06-23,Google and Lenovo Created the 'Most Advanced Chromebook Plus Yet' - CNET,Google,0.5095,positive,2025-06
+2025-06-23,Echo Chamber Jailbreak Tricks LLMs Like OpenAI and Google into Generating Harmful Content - The Hacker News,Google,0.25,positive,2025-06
+2025-06-18,"Search Live: Talk, listen and explore in real time with AI Mode - Google Blog",Google,0.0,neutral,2025-06
+2025-06-18,New Maps updates to help you get around Europe more sustainably - Google Blog,Google,0.4019,positive,2025-06
+2025-06-17,We’re expanding our Gemini 2.5 family of models - Google Blog,Google,0.0,neutral,2025-06
+2025-06-20,Why Google Stock Is A Smart Pick? - Forbes,Google,0.4019,positive,2025-06
+2025-06-21,US v. Google: all the news from the search antitrust showdown - The Verge,Google,0.0,neutral,2025-06
+2025-06-20,Turkish competition authority launches probe into Google's PMAX - Reuters,Google,0.0772,positive,2025-06
+2025-06-23,"Chromebooks are better than ever, but is that enough for Google? - 9to5Google",Google,0.2382,positive,2025-06
+2025-06-19,Google faces setback as EU court adviser backs antitrust regulators - Reuters,Google,-0.0516,negative,2025-06
+2025-06-19,Four Things I Do to Make My Google Nest Devices More Useful - Lifehacker,Google,0.4927,positive,2025-06
+2025-06-23,Google (GOOGL) Adds Built-In AI Tools to Its New Lenovo Chromebook Plus 14 - TipRanks,Google,0.0,neutral,2025-06
+2025-06-23,Google has quietly released its own standalone Instant Games app - Mobilegamer.biz,Google,0.0,neutral,2025-06
+2025-06-22,Delete This Message From Apple Or Google—It’s An Attack - Forbes,Google,-0.4767,negative,2025-06
+2025-06-23,Google just gave Chromebooks a big upgrade for free - 4 features you can use on ChromeOS now - ZDNET,Google,0.5106,positive,2025-06
+2025-06-23,Google Merchant Center Product Status Changes History Report Returning - Search Engine Roundtable,Google,0.0,neutral,2025-06
+2025-06-10,Android 16 is here - Google Blog,Google,0.0,neutral,2025-06
+2025-06-20,"Google offers to tweak search results to promote rivals, stave off EU antitrust fine, documents show - Reuters",Google,0.5267,positive,2025-06
+2025-06-23,Google Questions AI Overview Click Studies & Says Web Is Thriving - Search Engine Roundtable,Google,0.0,neutral,2025-06
+2025-06-19,Google looks likely to lose appeal against record $4.7 billion EU fine - CNBC,Google,-0.2263,negative,2025-06
+2025-06-23,Is ChatGPT Catching Google on Search Activity? [Infographic] - Social Media Today,Google,0.0,neutral,2025-06
+2025-06-21,"Billions of login credentials have been leaked online, Cybernews researchers say - AP News",Google,-0.3182,negative,2025-06
+2025-06-23,Google’s Android XR glasses are called ‘Martha’ in Pixel Watch-like companion app - 9to5Google,Google,0.0,neutral,2025-06
+2025-06-20,"Google, Apple, Meta Passwords Exposed in Massive Hack: Report - Entrepreneur",Google,-0.0772,negative,2025-06
+2025-06-23,Why these 6 underrated Google apps earn a permanent spot on my home screen - Android Police,Google,0.0,neutral,2025-06
+2025-06-22,When is the best time to book your flight? Google just revealed its airfare secrets - ZDNET,Google,0.6369,positive,2025-06
+2025-06-23,I Let Google Lens Be My Tour Guide. It Might Be the Smartest Travel Tool This Summer - CNET,Google,0.6124,positive,2025-06
+2025-06-19,EU Court Advisor Backs Google’s $4.7 Billion Android Fine - WSJ,Google,0.1531,positive,2025-06
+2025-06-23,Gmail’s multi-factor authentication bypassed by hackers to pull off targeted attacks - Malwarebytes,Google,-0.4404,negative,2025-06
+2025-06-19,"Google Chrome Warning — Windows, Android, Mac And Linux Users Act Now - Forbes",Google,-0.34,negative,2025-06
+2025-06-20,"Stop Using Your Microsoft, Google And Facebook Passwords - Forbes",Google,-0.296,negative,2025-06
+2025-06-23,"Google Pay quietly adds Klarna to its Buy Now, Pay Later arsenal - Android Police",Google,-0.2023,negative,2025-06
+2025-06-20,"16 billion passwords for Google, Apple, Facebook leaked in massive data dump, report says - Axios",Google,-0.5994,negative,2025-06
+2025-06-23,Google's Pixel 10 Pro Fold could top all other foldables in a key durability rating - Android Police,Google,0.2023,positive,2025-06
+2025-06-22,Google Messages is preparing a new trick to get your friends and family to switch to RCS - TechRadar,Google,0.4404,positive,2025-06
+2025-06-19,Google hits setback in bid to overturn multibillion EU antitrust fine in Android case - AP News,Google,0.2023,positive,2025-06
+2025-06-18,What’s Driving Google Stock Higher? - Forbes,Google,0.0,neutral,2025-06
+2025-06-20,"16 billion passwords leaked in Google, Facebook, Apple massive data breach: What we know - LiveNOW from FOX",Google,-0.3182,negative,2025-06
+2025-06-20,Microsoft is blocking Google Chrome through its family safety feature - The Verge,Google,0.0516,positive,2025-06
+2025-06-21,Take a look at what the redesigned Google Phone app will look like - PhoneArena,Google,0.3612,positive,2025-06
+2025-06-19,"Billions of logins for Apple, Google, Facebook, Telegram, and more found exposed online - Malwarebytes",Google,-0.1477,negative,2025-06
+2025-06-23,Google Touts Its Index Freshness As A Win For Google AI - Search Engine Roundtable,Google,0.5719,positive,2025-06
+2025-06-20,"16 Billion Apple, Facebook, Google And Other Passwords Leaked - Forbes",Google,-0.3182,negative,2025-06
+2025-06-06,Plan ahead with scheduled actions in the Gemini app. - Google Blog,Google,0.0,neutral,2025-06
+2025-06-18,Google finally confirms the Pixel 10... sort of - Mashable,Google,0.0,neutral,2025-06
+2025-06-20,The Godfather of AI says there's a key difference between OpenAI and Google when it comes to safety - Business Insider,Google,0.4215,positive,2025-06
+2025-06-23,Report: Google TV budget has been cut prior to big Gemini debut - 9to5Google,Google,-0.2732,negative,2025-06
+2025-06-21,Google’s Quiet Confirmation Of The Pixel 10 - Forbes,Google,0.0,neutral,2025-06
+2025-06-19,"Google should lose bid to overturn €4.1B EU Android fine, says court adviser - politico.eu",Google,-0.2263,negative,2025-06
+2025-06-23,Chromebook Plus getting its own Circle to Search with more actions - 9to5Google,Google,0.0,neutral,2025-06
+2025-06-18,Google is adding the Veo 3 video generator to YouTube to slopify Shorts - Engadget,Google,0.0,neutral,2025-06
+2025-06-20,"Urgent Upgrade Appeal After ‘Biggest Ever’ 16 Billion Hack Hits Facebook, Google, Apple And Others - Forbes",Google,0.2023,positive,2025-06
+2025-06-10,"Pixel VIPs, Android 16 and more updates in the June Pixel Drop - Google Blog",Google,-0.2732,negative,2025-06
+2025-06-23,Google's pulling money away from Android TV and Google TV - Android Authority,Google,0.0772,positive,2025-06
+2025-06-19,Google Confirms Gmail Attacks—Stop Using These Passwords - Forbes,Google,0.0,neutral,2025-06
+2025-06-23,"SparkKitty, SparkCat’s little brother: A new Trojan spy found in the App Store and Google Play - Securelist",Google,0.34,positive,2025-06
+2025-06-10,6 new Android features that are tailored to you - Google Blog,Google,0.0,neutral,2025-06
+2025-06-18,"Meta's Scale AI deal has clients like Google halting projects, contractors scrambling, and one investor bailing out - Business Insider",Google,0.3612,positive,2025-06
+2025-06-19,Creators say they didn't know Google uses YouTube to train AI - CNBC,Google,0.0,neutral,2025-06
+2025-06-23,Google is giving your Chromebook Plus its own version of Circle to Search - Android Authority,Google,0.4019,positive,2025-06
+2025-06-20,"I Tried Google's Conversation Feature for AI Mode, and I'm Not Sure Who It's For - Lifehacker",Google,-0.2411,negative,2025-06
+2025-06-23,Google Pixel 10 Pro Fold could be one of the first foldables with an IP68 rating - Android Authority,Google,0.0772,positive,2025-06
+2025-06-23,"Chromebook Plus laptops like Lenovo’s sleek, new 14-incher are getting free Gemini AI features - The Verge",Google,0.7003,positive,2025-06
+2025-06-05,Try new data visualizations and graphs for finance queries in AI Mode. - Google Blog,Google,0.0,neutral,2025-06
+2025-06-23,A more Google-y Gemini logo may be right around the corner (APK teardown) - Android Authority,Google,0.0772,positive,2025-06
+2025-06-04,Our latest scams survey sees changing online security habits - Google Blog,Google,-0.34,negative,2025-06
+2025-06-20,How to secure your Google account after the 16 billion passwords leak: complete guide for online safety - The Economic Times,Google,0.4215,positive,2025-06
+2025-06-21,Google Pixel 9 Pro Fold's connectivity issues are so terrible I literally can't use it anymore - Android Police,Google,-0.6113,negative,2025-06
+2025-06-20,Every Google app with the fullscreen Account switcher redesign [U: Gmail] - 9to5Google,Google,0.0,neutral,2025-06
+2025-06-20,Google’s Gemini transparency cut leaves enterprise developers ‘debugging blind’ - VentureBeat,Google,-0.2732,negative,2025-06
+2025-06-19,Google Phone app rolling out Material 3 Expressive redesign - 9to5Google,Google,0.0,neutral,2025-06
+2025-06-21,"Google just changed the search bar on my Pixel home screen, and I hate it - Android Authority",Google,-0.5267,negative,2025-06
+2025-06-20,The Google Pixel camera keeps changing – when did you like it most? - 9to5Google,Google,0.3612,positive,2025-06
+2025-06-19,Google Phone app's Material 3 Expressive overhaul rolling out - Android Police,Google,0.0,neutral,2025-06
+2025-06-18,YouTube to Add Google’s Veo 3 to Shorts in Move That Could Turbocharge AI on the Video Platform - The Hollywood Reporter,Google,0.0,neutral,2025-06
+2025-06-19,WTF is “query fan-out” in Google’s AI mode? - Digiday,Google,-0.6739,negative,2025-06
+2025-06-19,Google faces legal blow as EU court adviser backs record $4.7 billion fine - Courthouse News,Google,0.2732,positive,2025-06
+2025-06-16,Google’s Advanced Protection Arrives on Android: Should You Use It? - Electronic Frontier Foundation,Google,0.25,positive,2025-06
+2025-06-11,HP Dimension with Google Beam Takes Virtual Collaboration to the Next Level at InfoComm 2025 - HP,Google,0.0,neutral,2025-06
+2025-06-23,No packages inside Amazon van that caught fire inside Ted Williams Tunnel - WCVB,Amazon,-0.4404,negative,2025-06
+2025-06-23,Amazon truck catches fire in Ted Williams Tunnel - Boston 25 News,Amazon,-0.1779,negative,2025-06
+2025-06-23,Amazon delivery van catches fire in Boston's Ted Williams Tunnel - NBC Boston,Amazon,-0.1779,negative,2025-06
+2025-06-23,Karol G Drops Summery ‘Tropicoqueta’ Merch Capsule on Amazon - Rolling Stone,Amazon,0.1779,positive,2025-06
+2025-06-23,"Amazon Prime Day 2025: The best early deals already live, dates and everything else you need to know - Engadget",Amazon,0.7096,positive,2025-06
+2025-06-22,"Amazon Is Packed with Wrinkle-Resistant Summer Clothes, and Our Favorites Start at $12 - People.com",Amazon,0.5423,positive,2025-06
+2025-06-23,"Amazon Is Selling a 'Flattering' $35 Maxi Dress for Just $17, and Shoppers Say It’s 'Great for Summer’ - parade.com",Amazon,0.7964,positive,2025-06
+2025-06-23,The Best Summer Dresses on Amazon Under $50 - NBC News,Amazon,0.7096,positive,2025-06
+2025-06-23,28 Extremely Useful Things To Buy From Amazon's Pre-Prime Day Deals - BuzzFeed,Amazon,0.4927,positive,2025-06
+2025-06-23,Amazon Doubles Project Kuiper Satellite Fleet in Race to Catch Up to SpaceX's Starlink - CNET,Amazon,0.1779,positive,2025-06
+2025-06-23,"Amazon launches second batch of Kuiper internet satellites, taking on Elon Musk's Starlink - CNBC",Amazon,0.1779,positive,2025-06
+2025-06-23,Crunch time—we’ll soon find out if Amazon’s launch providers are up to the job - Ars Technica,Amazon,0.0,neutral,2025-06
+2025-06-21,"Easy returns cause big trouble for Amazon sellers, but return rates show signs of slowing - CNBC",Amazon,0.1154,positive,2025-06
+2025-06-22,"Amazon is selling a 'sleek' $150 smartwatch for just $30, and shoppers say the battery 'lasts days' - TheStreet",Amazon,0.1779,positive,2025-06
+2025-06-20,Amazon Tells Thousands of Employees to Relocate or Resign - Entrepreneur,Amazon,-0.1779,negative,2025-06
+2025-06-23,Amazon’s New James Bond - The New Yorker,Amazon,0.0,neutral,2025-06
+2025-06-23,"Amazon Prime Day 2025: When it's happening and deals to add to cart - ABC News - Breaking News, Latest News and Videos",Amazon,0.1779,positive,2025-06
+2025-06-23,Early Amazon Prime Day deals are live from $6 — here’s the 41 sales I'd shop now - Tom's Guide,Amazon,0.1779,positive,2025-06
+2025-06-23,Amazon’s premium beauty push may be a buffer against Trump's tariffs - Reuters,Amazon,0.5859,positive,2025-06
+2025-06-23,Atlas V rocket launches 2nd batch of satellites for Amazon's Project Kuiper megaconstellation (video) - Space,Amazon,0.0,neutral,2025-06
+2025-06-23,Announcing Amazon WorkSpaces Core Managed Instances to simplify VDI migrations - Amazon,Amazon,0.34,positive,2025-06
+2025-06-23,Want to work for Amazon in Daytona? Company now hiring for new robotics center - Daytona Beach News-Journal,Amazon,0.25,positive,2025-06
+2025-06-23,Get a free $30 Amazon gift card when you buy the new Sony WH-1000XM6 headphones - Engadget,Amazon,0.7845,positive,2025-06
+2025-06-23,Friendly Amazon policy has sneaky costs for shoppers - TheStreet,Amazon,0.4588,positive,2025-06
+2025-06-23,I'm a Prime Day expert - here are 29 early deals that are worth buying right now - TechRadar,Amazon,0.2263,positive,2025-06
+2025-06-23,"More than 1,000 Amazon shoppers bought this 'rugged' charger in the past month — it's $250 off ahead of Prime Day - Yahoo",Amazon,0.2415,positive,2025-06
+2025-06-23,Significant Growth in Amazon (AMZN) Options Activity | AMZN Stock News - GuruFocus,Amazon,0.6249,positive,2025-06
+2025-06-23,Mattresses sold on Amazon recalled due to fire risk - Cleveland.com,Amazon,-0.4215,negative,2025-06
+2025-06-23,Amazon India unveils at-home diagnostics service - MobiHealthNews,Amazon,0.1779,positive,2025-06
+2025-06-23,Amazon is offering up to $310 in Prime Day credits and freebies — here are my favorite deals - Tom's Guide,Amazon,0.8402,positive,2025-06
+2025-06-23,Build an agentic multimodal AI assistant with Amazon Nova and Amazon Bedrock Data Automation - Amazon,Amazon,0.4767,positive,2025-06
+2025-06-23,Amazon OpenSearch Serverless now supports Point in Time (PIT) and SQL search in the AWS GovCloud (US) Regions - Amazon,Amazon,0.5994,positive,2025-06
+2025-06-23,Excited for Prime Day? Amazon already slashed the price of its 75-inch Fire TV by 48% - Syracuse.com,Amazon,-0.0516,negative,2025-06
+2025-06-23,ULA’s Atlas V Launches Second Batch of Satellites for Amazon’s Project Kuiper - Broadband Breakfast,Amazon,0.0,neutral,2025-06
+2025-06-17,Message from CEO Andy Jassy: Some thoughts on Generative AI - AboutAmazon.com,Amazon,0.0,neutral,2025-06
+2025-06-23,Use Graph Machine Learning to detect fraud with Amazon Neptune Analytics and GraphStorm - Amazon,Amazon,-0.34,negative,2025-06
+2025-06-23,These Things Are Also on Sale (and Not on Amazon) - The Cut,Amazon,-0.3855,negative,2025-06
+2025-06-23,Introducing AWS Lambda native support for Avro and Protobuf formatted Apache Kafka events - Amazon,Amazon,0.5267,positive,2025-06
+2025-06-23,"Best Early Shoe Deals for Amazon Prime Day 2025: Save Up to 50% on Adidas, Crocs, & More - E! Online",Amazon,0.8553,positive,2025-06
+2025-06-23,Don’t wait for Prime Day - the Amazon Fire HD 8 Plus is at its lowest-ever price right now - TechRadar,Amazon,-0.1779,negative,2025-06
+2025-06-23,"I put 3 under-$100 Amazon dresses to the test. As a 48-year-old mom of 2, this 'flattering' one stood out - Yahoo",Amazon,0.5147,positive,2025-06
+2025-06-23,Electric Boats Offer a More Eco-Friendly Way to Travel in the Amazon - The New York Times,Amazon,0.1779,positive,2025-06
+2025-06-23,My Favorite Wireless Earbuds in Amazon’s Early Prime Day Deals - Operation Sports,Amazon,0.4588,positive,2025-06
+2025-06-23,Another 27 satellites go into Earth orbit for Amazon’s Project Kuiper internet network - GeekWire,Amazon,0.0,neutral,2025-06
+2025-06-18,5 Amazon AI tools that can help you save time and money this Prime Day - AboutAmazon.com,Amazon,0.765,positive,2025-06
+2025-06-23,Open Up a World of Streaming Possibilities With Prime Video’s Add-On Channels - Billboard,Amazon,0.0,neutral,2025-06
+2025-06-23,AWS named a Leader in the 2025 Forrester Wave: Serverless Development Platforms | Amazon Web Services - Amazon,Amazon,0.34,positive,2025-06
+2025-06-23,The Best Pillows on Amazon for Slipping Into the Greatest Sleep of Your Life - GQ,Amazon,0.8779,positive,2025-06
+2025-06-23,Introducing security group referencing and enhanced DNS support for AWS Cloud WAN - Amazon,Amazon,0.7003,positive,2025-06
+2025-06-23,"​​Amazon is selling a 'flowy' $37 maxi skirt for just $18 that shoppers say is 'cute, soft, and has pockets' - TheStreet",Amazon,0.4588,positive,2025-06
+2025-06-23,Amazon Shoots for the Stars Again To Take on Elon Musk’s Starlink - LAmag,Amazon,0.1779,positive,2025-06
+2025-06-23,"These $21 Ballet Flats Rival a $200 Tory Burch Pair, and Shoppers Claim They’re Just as Comfortable - Real Simple",Amazon,0.5106,positive,2025-06
+2025-06-23,Second ULA Launch Brings Amazon Kuiper Constellation to 54 Satellites - Via Satellite,Amazon,0.1779,positive,2025-06
+2025-06-23,Amazon is selling a 'powerful' $200 cordless vacuum for $80 that shoppers say 'is quieter and lighter' than a Dyson - TheStreet,Amazon,0.5423,positive,2025-06
+2025-06-20,UK grocery watchdog probes Amazon over alleged supplier payment delays - Reuters,Amazon,0.1779,positive,2025-06
+2025-06-23,"Amazon Takes Up to $55 Off 11th Gen iPad, Starting at $299 - MacRumors",Amazon,0.1779,positive,2025-06
+2025-06-23,Both Editions Of Pokemon Legends: Z-A Are Up For Preorder At Amazon - GameSpot,Amazon,0.1779,positive,2025-06
+2025-06-23,"Amazon is selling a two-pack of 'durable' $20 waterproof phone pouches for $10, and it has 80,000+ perfect ratings - TheStreet",Amazon,0.6597,positive,2025-06
+2025-06-23,"Beat the summer heatwave with these 27 air conditioner deals at Amazon, Walmart, Target - NJ.com",Amazon,0.1779,positive,2025-06
+2025-06-23,"Amazon to Invest $233 Million in India Operations for 2025 for Infrastructure, E-commerce Growth - Yahoo Finance",Amazon,0.5106,positive,2025-06
+2025-06-23,"Amazon posts 1,000+ job openings for new Daytona Beach facility - The Business Journals",Amazon,0.1779,positive,2025-06
+2025-06-23,"“Relocate or Resign”: Amazon (NASDAQ:AMZN) Slips on New Kuiper Satellite Launch, Staff Ultimatum - TipRanks",Amazon,0.1779,positive,2025-06
+2025-06-23,Need Patio Furniture for Summer? Early Prime Day Deals Have You Covered - House Beautiful,Amazon,0.5994,positive,2025-06
+2025-06-23,"Most affordable iPhone 16 Pro configs see Amazon Renewed Premium price drops, 1TB models up to $400 off - 9to5Toys",Amazon,0.1779,positive,2025-06
+2025-06-23,34 Things You'll Be *Stunned* To Discover Are From Amazon - BuzzFeed,Amazon,0.0772,positive,2025-06
+2025-06-23,Amazon Black+Decker Portable A/C Sale 2025 - Get Almost $100 Off This Editor-Tested Unit - Popular Mechanics,Amazon,0.5423,positive,2025-06
+2025-06-21,"Best Early Amazon Prime Day 2025 Home & Kitchen Deals: Save on Ninja, Dyson, Nespresso, & More - E! Online",Amazon,0.8553,positive,2025-06
+2025-06-18,Crayan Mattresses Recalled Due to Risk of Serious Injury or Death from Fire Hazard; Violation of Federal Standard for Mattress Flammability; Sold Exclusively on Amazon by Crayan - U.S. Consumer Product Safety Commission (.gov),Amazon,-0.8807,negative,2025-06
+2025-06-23,Analyst's Bold Amazon Call Has Traders Talking - Yahoo Finance,Amazon,0.5106,positive,2025-06
+2025-06-23,I've found one of the best Lego Marvel deals pre-Prime Day - Space,Amazon,0.7906,positive,2025-06
+2025-06-22,"Amazon Prime Day 2025: The best early deals you can shop now, dates and everything else you need to know - Engadget",Amazon,0.7096,positive,2025-06
+2025-06-23,South Africa's Takealot grows revenue to fend off Amazon rivalry - Reuters,Amazon,0.1779,positive,2025-06
+2025-06-23,Amazon Sellers Hike Prices Over Returns Fees and Fraud - PYMNTS.com,Amazon,-0.4767,negative,2025-06
+2025-06-23,"Amazon Will Be Largest U.S. Retailer This Year, Beating Walmart, Says J.P. Morgan - Barron's",Amazon,-0.3182,negative,2025-06
+2025-06-23,Amazon Canada has a rare deal on Apple AirPods Pro 2 — save $70 ahead of Prime Day 2025 - Yahoo,Amazon,0.5994,positive,2025-06
+2025-06-23,Amazon melted $44 off the price of this countertop bullet ice maker to get you through the heat wave - NJ.com,Amazon,0.1779,positive,2025-06
+2025-06-23,Amazon Prime Day 2025: Early deals to shop this week ahead of the July sale - Yahoo,Amazon,0.1779,positive,2025-06
+2025-06-20,South Korea says SK and Amazon to invest $5 billion in country's biggest data centre - Reuters,Amazon,0.1779,positive,2025-06
+2025-06-23,Here’s Why Amazon Stock (AMZN) Remains J.P.Morgan’s ‘Best Idea’ - TipRanks,Amazon,0.1779,positive,2025-06
+2025-06-20,Brazil's soy farmers raze Amazon rainforest despite deforestation pact - Reuters,Amazon,0.1779,positive,2025-06
+2025-06-23,"IPX7 Waterproof Bluetooth Speaker Is 41% Off, Amazon’s Early Prime Day Price Revealed - Gizmodo",Amazon,0.0,neutral,2025-06
+2025-06-17,"Prime Day is back July 8-11, with double the days and millions of deals - AboutAmazon.com",Amazon,0.0,neutral,2025-06
+2025-06-23,"This 15″ 1TB HP Laptop is Almost Free, Amazon Offers 76% Off in Early Prime Day Deal - Gizmodo",Amazon,0.5313,positive,2025-06
+2025-06-23,"This 5-in-1 USB-C Hub Is Almost Free, Amazon Didn’t Wait for Prime Day to Crush Its Price - Gizmodo",Amazon,0.427,positive,2025-06
+2025-06-20,Can Amazon Stock Double by 2030? - The Motley Fool,Amazon,-0.296,negative,2025-06
+2025-06-23,"Amazon Is Selling a 'Flattering' $35 Maxi Dress for Just $17, and Shoppers Say It’s 'Great for Summer’ - Yahoo",Amazon,0.7964,positive,2025-06
+2025-06-22,Amazon gives employees a harsh ultimatum amid layoff fears - TheStreet,Amazon,-0.6124,negative,2025-06
+2025-06-23,Jeremy Clarkson's Charming And Hilarious Reality Show On Amazon Prime Deserves Your Attention - SlashFilm,Amazon,0.802,positive,2025-06
+2025-06-22,Save up to 48% on early Prime Day TV deals happening right now 📺 - USA Today,Amazon,0.4939,positive,2025-06
+2025-06-23,"Zacks Investment Ideas feature highlights: Jabil, Apple, Amazon, Johnson & Johnson and Ericsson - Yahoo Finance",Amazon,0.1779,positive,2025-06
+2025-06-23,"Tech Voices: Amazon's Kuiper, Fiserv, Wolfspeed, cybersecurity alert - Seeking Alpha",Amazon,0.296,positive,2025-06
+2025-06-23,Missing Frieren: Beyond Journey's End? This Amazon Prime Video Exclusive Is Perfect for Fantasy Anime Fans - Comic Book Resources,Amazon,0.596,positive,2025-06
+2025-06-23,"Top Stock Reports for Amazon.com, Home Depot & Cisco Systems - TradingView",Amazon,0.2023,positive,2025-06
+2025-06-23,Hundreds of Amazon contract workers in South Jersey to lose jobs as pilot program ends - The Business Journals,Amazon,-0.25,negative,2025-06
+2025-06-20,Amazon asks corporate staff to relocate or quit without severance - KIRO 7 News Seattle,Amazon,0.1779,positive,2025-06
+2025-06-23,Prime Day came early! Amazon is offering members over 50% OFF this popular Fire tablet - Android Central,Amazon,0.4295,positive,2025-06
+2025-06-20,LeBron James’s Growing Amazon Ties Could Lead to Prime Role - Front Office Sports,Amazon,0.34,positive,2025-06
+2025-06-23,Walmart Just Revealed Its July Sales Event and It's Even Longer Than Amazon Prime Day - IGN,Amazon,0.1779,positive,2025-06
+2025-06-20,Where Will Amazon Stock Be in 5 Years? - The Motley Fool,Amazon,-0.296,negative,2025-06
+2025-06-20,Amazon Prime membership benefits and discounted options - NBC News,Amazon,0.5423,positive,2025-06
+2025-06-18,Amazon's corporate workforce may shrink as AI takes over routine tasks - Reuters,Amazon,0.0,neutral,2025-06
+2025-06-23,"Amazon Music Unlimited Is Free for 4 Months — And It Comes With Audible, Too - TVGuide.com",Amazon,0.6124,positive,2025-06
+2025-06-23,"Amazon Is Selling a 'Light and Airy' $26 Cooling Blanket for as Low as $13, and It's Perfect for the Summer Months - parade.com",Amazon,0.5106,positive,2025-06
+2025-06-19,100K mattresses sold on Amazon recalled over fire hazard - KXAN Austin,Amazon,-0.1779,negative,2025-06
+2025-06-20,The best Apple deals you can shop ahead of Amazon Prime Day 2025 - The Verge,Amazon,0.7096,positive,2025-06
