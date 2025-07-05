@@ -1,5 +1,5 @@
 import pandas as pd
-df = pd.read_csv("tech_news.csv")
+df = pd.read_csv("samsung_news.csv")
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 analyzer = SentimentIntensityAnalyzer()
 df['sentiment'] = df['headline'].apply(lambda x: analyzer.polarity_scores(x)['compound'])
@@ -13,7 +13,8 @@ def label_sentiment(score):
 
 df['label'] = df['sentiment'].apply(label_sentiment)
 df['date'] = pd.to_datetime(df['date'])
-df['month'] = df['date'].dt.strftime('%Y-%m')
-df.to_csv("tech_sentiment.csv", index=False)
+df.to_csv("samsung_sentiment.csv", index=False)
+print(f"✅ Analyzed sentiment for {len(df)} headlines")
+print(f"Date range: {df['date'].min()} to {df['date'].max()}")
 
 

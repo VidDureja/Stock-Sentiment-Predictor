@@ -1,11 +1,11 @@
 import yfinance as yf
 import pandas as pd
-import matplotlib.pyplot as plt
 
 # Define stock and time period
-ticker = "MSFT"
-start_date = "2024-06-01"
-end_date = "2025-05-31"
+# Samsung Electronics Co Ltd (KRX: 005930.KS)
+ticker = "005930.KS"
+start_date = "2025-01-01"
+end_date = "2025-12-31"
 
 # Download stock price data
 data = yf.download(ticker, start=start_date, end=end_date)
@@ -17,17 +17,16 @@ if data is None or data.empty:
 # Show first 5 rows
 print(data.head())
 
-# Plot closing price
-data["Close"].plot(title=f"{ticker} Closing Price", figsize=(10, 5))
-plt.xlabel("Date")
-plt.ylabel("Price")
-plt.grid(True)
-plt.show()
-
+# Prepare for saving
+# Reset index to get date as a column
 data.reset_index(inplace=True)
 data.rename(columns={"Date": "date"}, inplace=True)
-data['month'] = pd.to_datetime(data['date']).dt.strftime('%Y-%m')
-data.to_csv("microsoft_stock.csv")
+
+# Save to CSV
+cols = ["date", "Close", "High", "Low", "Open", "Volume"]
+data = data[cols]
+data.to_csv("samsung_stock.csv", index=False)
+print(f"Saved {len(data)} rows to samsung_stock.csv")
 
 
 

@@ -39,8 +39,14 @@ if len(df) < 2:
     print("Not enough data to train/test a model. Please collect more data.")
     exit()
 
-# 🧪 Train/test split
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, stratify=y)
+# 🧪 Train/test split - handle small datasets
+if len(df) < 10:
+    # For small datasets, use a simple split without stratification
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    print("⚠️  Small dataset detected - using simple train/test split without stratification")
+else:
+    # For larger datasets, use stratified split
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, stratify=y)
 
 # Train logistic regression model
 model = LogisticRegression(random_state=42)
