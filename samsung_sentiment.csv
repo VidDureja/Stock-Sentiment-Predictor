@@ -1,17 +1,94 @@
 date,headline,sentiment,label
-2025-06-13,Samsung Galaxy S25 Ultra receives rave reviews from tech critics,-0.296,negative
-2025-06-13,Samsung announces new AI features for upcoming foldable phones,0.0,neutral
-2025-06-12,Samsung's chip division reports strong Q2 earnings,0.5106,positive
-2025-06-12,Samsung partners with Google for enhanced Android integration,0.0,neutral
-2025-06-11,Samsung's display technology leads industry innovation,0.3818,positive
-2025-06-11,Samsung expands 5G network infrastructure globally,0.1027,positive
-2025-06-10,Samsung's memory chip sales exceed market expectations,0.0,neutral
-2025-06-10,Samsung unveils new smart home ecosystem,0.4019,positive
-2025-06-09,Samsung's mobile market share grows in key regions,0.296,positive
-2025-06-09,Samsung invests heavily in next-generation display technology,0.0,neutral
-2025-06-06,Samsung's semiconductor business faces supply chain challenges,0.0772,positive
-2025-06-06,Samsung launches new sustainability initiatives,0.0,neutral
-2025-06-05,Samsung's foldable phone sales hit record numbers,0.0,neutral
-2025-06-05,Samsung collaborates with major gaming companies,0.0,neutral
-2025-06-04,Samsung's AI research division makes breakthrough,0.0,neutral
-2025-06-04,Samsung's TV division introduces revolutionary features,0.0,neutral
+2025-07-07,Amazon Fire Tablets are on sale for Prime Day 2025,-0.1779,negative
+2025-07-07,"If You’re a Prime Member and Coffee Lover, the Breville Espresso Machine Is Selling for Peanuts on Prime Day",0.5859,positive
+2025-07-07,Honor Magic V5 Defies the Elements in Thrilling Durability Test,0.743,positive
+2025-07-07,Trump Media Launches TV Streaming Platform Truth+ in Partnership With Newsmax,0.3182,positive
+2025-07-07,Samsung makes One UI 8's enhanced security suite official,0.34,positive
+2025-07-07,"Costco- YMMV - Samsung 49"" Ultrawide Odyssey G95C DQHD 240Hz Curved Gaming Monitor $499.97 B&M",0.0,neutral
+2025-07-07,"Costco- YMMV - Samsung 49"" Ultrawide Odyssey G95C DQHD 240Hz Curved Gaming Monitor $499.97 (7 replies)",0.0,neutral
+2025-07-07,Samsung’s One UI 8 Brings Powerful Quantum Security Suite,0.6369,positive
+2025-07-07,"Your Privacy, Secured: Inside the Tech Powering Safe, Personalized Galaxy AI Experiences",0.6808,positive
+2025-07-07,"Today’s Android app deals and freebies: The House of Da Vinci 2, Mutant Meltdown, more",0.4215,positive
+2025-07-07,Samsung Introduces Future-Ready Mobile Security for Personalized AI Experiences,0.34,positive
+2025-07-07,Samsung India accidentally reveals Galaxy Z Flip 7 and Fold 7 pre-reserve benefits - SamMobile,0.0516,positive
+2025-07-07,The LG Evo C4 4K OLED Smart TV Has Already Gone on Sale for Amazon Prime Day,0.5267,positive
+2025-07-07,Apple’s latest AirPods are already on sale for $99 before Prime Day,0.0,neutral
+2025-07-07,Snag the Samsung Odyssey Ark for over 30% off at Best Buy,0.6369,positive
+2025-07-07,"$899.99: 49"" Samsung Odyssey G9 G95SC DQHD OLED 240Hz 0.03ms Curved Monitor at Amazon",0.1779,positive
+2025-07-07,Māori economy surges: Iwi entities lead with strong financial performance,0.5106,positive
+2025-07-07,"Galaxy Z Fold 7, Z Flip 7, Z Flip 7 FE retail pages leak with full details",-0.34,negative
+2025-07-07,"Galaxy Z Fold 7 and Flip 7 will indeed be the first devices to ship with Android 16, leak shows",-0.34,negative
+2025-07-07,Galaxy Z Flip 7 FE Benchmark Shows Exynos Chip Performance,0.0,neutral
+2025-07-07,The Best Early Prime Day Deals Hand-Picked By Our Expert Editors,0.6369,positive
+2025-07-07,Exynos 2400-powered Samsung Galaxy Z Flip FE hits Geekbench again with 8 GB of RAM and middling performance,0.0,neutral
+2025-07-07,The best smartwatch and wearables deals this Amazon Prime Day,0.7248,positive
+2025-07-07,Tecno looks to steal Samsung’s spotlight with latest tri-fold concept phone,-0.4939,negative
+2025-07-07,"Samsung's upcoming devices leak in full, just days short of launch",-0.34,negative
+2025-07-07,Huge Samsung Galaxy Z Fold 7 specs leak bares all before Unpacked,-0.0258,neutral
+2025-07-07,Fold 7 and Flip 7 price leak reveals a huge hike for one 2025 foldable,-0.0258,neutral
+2025-07-07,Google Gemini Will Reportedly Debut on Wear OS With Samsung's Galaxy Watch 8,0.0,neutral
+2025-07-07,Google Gemini Will Reportedly Debut on Wear OS With Samsung's Galaxy Watch 8,0.0,neutral
+2025-07-07,Samsung’s big SmartThings AI update just made Apple look slow,0.0,neutral
+2025-07-07,Aovopro EB60 500W Foldable Electric Bike for $237 + free shipping,0.5106,positive
+2025-07-07,"Nomad's Apple Watch charger may be the most ingenious accessory I've tested yet, and it's 20% off",0.0,neutral
+2025-07-07,Best early Prime Day monitor deals: 20+ discounts you can get right now,0.6369,positive
+2025-07-07,Samsung Galaxy Tab S10 Ultra Tablets: Up to $650 off w/ trade + free shipping,0.5106,positive
+2025-07-07,"Deals: Google TV Streamer 4K, Google Pixel 9a $450, Nest Learning Thermostat (4th Gen), 2025 Surface Laptop, more",0.0,neutral
+2025-07-07,Galaxy S26 Ultra Leak Confirms Better Zoom & Faster Charging,0.128,positive
+2025-07-07,Samsung details the fun events planned for its new devices in NYC,0.5106,positive
+2025-07-07,Samsung Galaxy Buds3 Pro Noise-Cancelling Earbuds: $60 off or up to $125 off w/ trade + free shipping,0.5106,positive
+2025-07-07,Trump Media And Technology Group (DJT) Has Now Launched Its Truth+ Streaming Service Globally,0.4215,positive
+2025-07-07,"Prime Day starts tomorrow, but these 65+ early deals are worth shopping now",0.3291,positive
+2025-07-07,Samsung Galaxy Watch7 44mm Bluetooth/WiFi Smartwatch for $240 + free shipping,0.5106,positive
+2025-07-07,[Prime] Samsung 990 PRO 2TB PCIe 4.0 M.2 NVMe SSD with Heatsink $217.36 Delivered @ Amazon JP via AU,0.4995,positive
+2025-07-07,"Leaked Samsung chart reveals what makes Galaxy Z Fold 7, Flip 7 and Flip 7 FE special",0.1027,positive
+2025-07-07,The next king of foldables might materialize at the very beginning of 2026,0.0,neutral
+2025-07-07,Samsung Galaxy Z Fold 7 And Flip 7 Specs Seemingly Confirmed Ahead Of Launch,0.0,neutral
+2025-07-07,"Unlocked Samsung Galaxy Z Fold6 Android Smartphone: Up to $1,000 off w/ trade + free shipping",0.5106,positive
+2025-07-07,"Ahead of Wednesday, See the Specs for Samsung’s Next Foldables",0.0,neutral
+2025-07-07,Samsung's Affordable Galaxy Tab A9+ Hits 27% Off Ahead of Prime Day,0.0,neutral
+2025-07-07,How Xiaomi succeeded where Apple failed,-0.128,negative
+2025-07-07,Galaxy S25 FE Benchmark Shows Exynos Chips Still Pack a Punch,0.0,neutral
+2025-07-07,"Dyson, techno-centric design and social consumption",0.0,neutral
+2025-07-07,"Amazon Clears Out 10,000mAh Charger with 4 Built-In Cables, Now Nearly Free for Prime Members",0.6486,positive
+2025-07-07,Amazon Resale vs. Renewed: Secret Shopping Secrets for Getting New Tech Cheap,0.1779,positive
+2025-07-07,"Latest leak paints a nearly-complete picture of Galaxy Z Fold 7, Flip 7, and Flip 7 FE specs",-0.34,negative
+2025-07-07,"Ahead of Galaxy Watch 8, Samsung continues to fall in the global smartwatch market",0.0,neutral
+2025-07-07,Video on Demand Market to Hit Valuation of US$ 883.35 Billion By 2033 | Astute Analytica,-0.128,negative
+2025-07-07,"Lexar NM1090 Pro SSD review: Fast overall, but slower among peers",0.0,neutral
+2025-07-07,Samsung's Tri-Fold Phone Leak: The Galaxy G Fold is Coming,-0.34,negative
+2025-07-07,Galaxy S25 FE to Reflect Samsung's New Obsession with Thinness,-0.34,negative
+2025-07-07,Best early Prime Day TV deals: My 25 favorite discounts available now,0.802,positive
+2025-07-07,This smart home tech is another way Apple is falling behind in AI,0.2732,positive
+2025-07-07,Best Buy Black Friday in July TV Deals: Up to 60% off + free shipping,0.8176,positive
+2025-07-07,"Massive leaks reveal Samsung Galaxy Z Fold7, Galaxy Z Flip7 and Galaxy Watch8 details ahead of schedule",0.0,neutral
+2025-07-07,Last Day to Preorder Samsung's New M9 OLED Smart Monitor and Get a Free $300 Amazon Gift Card,0.8625,positive
+2025-07-07,Best Buy Black Friday in July Major Appliance Deals: Up to 50% off + free shipping,0.8176,positive
+2025-07-07,Samsung Galaxy G Fold: Leaks Reveal the Future of Foldable Phones,0.0,neutral
+2025-07-07,The relationship between confidence and gaze-at-nothing oculomotor dynamics during decision-making,0.6597,positive
+2025-07-07,Changes in heart rate variability and hemodynamics of adolescents within the frontal cortex in response to face emotional stimulation,0.7003,positive
+2025-07-07,"Healthcare ERP Market 2025 Leads with 37% North America Share, Oracle and Microsoft Dominates",0.34,positive
+2025-07-07,"How SharkNinja took over the home, with CEO Mark Barrocas",0.0,neutral
+2025-07-07,The foldable iPhone may not have Face ID,0.0,neutral
+2025-07-07,BIOS Advanced settings help,0.5719,positive
+2025-07-07,Gemini for Wear OS appears to be launching on the Galaxy Watch 8 series,0.0,neutral
+2025-07-07,"Best Prime Day Tablet Deals: Treat Yourself to a New iPad, Kindle or Android Device During Amazon's Sale",0.7845,positive
+2025-07-07,The Best Prime Day Monitor Deals Include 31% Off A Top-Rated 49-Inch Display,0.6369,positive
+2025-07-07,Galaxy Z Flip 7 FE makes a final unofficial appearance and punches above the Razr Plus 2025,0.0,neutral
+2025-07-07,DJI Drone and Accessory Deals at eBay: Up to 68% off + Extra 20% off + free shipping,0.5106,positive
+2025-07-07,DJI Drone and Accessory Deals at eBay: Up to 68% off + Extra 20% off + free shipping,0.5106,positive
+2025-07-07,Samsung One UI 8 introduces KEEP for enhanced app-specific data security,0.34,positive
+2025-07-07,"Only Apple Watch can be trusted to count calories accurately, report finds",0.4767,positive
+2025-07-07,"Best Prime Day Appliance Deals: Save Big on Fridges, Ovens, Air Fryers, Washers and More",0.8126,positive
+2025-07-07,"T-Mobile Gives a $830 Trade-In Discount, But There’s a Catch",0.0,neutral
+2025-07-07,Sam's Club Members: 11â Samsung A9+ 128GB Tablet w/ 2-Year Warranty $149 + Free Shipping Plus Members (9 replies),0.5106,positive
+2025-07-07,The 20 best early Prime Day 2025 deals under $25,0.6369,positive
+2025-07-07,Samsung Galaxy Watch 8 Lineup: Full Specs Leak Spills Everything,-0.34,negative
+2025-07-07,Samsung's new Android flip phone might not offer of a gaming boost after all,0.4019,positive
+2025-07-07,Samsung boosts SmartThings with AI routines & expanded Apple support,0.6124,positive
+2025-07-07,Live Updates From Samsung Unpacked,0.0,neutral
+2025-07-07,"Your Privacy, Secured: Inside the Tech Powering Safe, Personalized Galaxy AI Experiences",0.6808,positive
+2025-07-07,Samsung Introduces Future-Ready Mobile Security for Personalized AI Experiences,0.34,positive
+2025-07-07,Now you can just tell SmartThings how to automate your home,0.0,neutral
+2025-07-07,Samsung Galaxy Watch 8 Classic: The HUGE Design SURPRISE Revealed!,0.7317,positive
+2025-07-07,"Samsung SmartThings Update Introduces Simple Automation, Seamless Onboarding, and Enhanced Location Sharing",0.4215,positive

@@ -1,32 +1,12 @@
-import requests
-from bs4 import BeautifulSoup
 import pandas as pd
-from datetime import datetime, timedelta
-import time
 
 def get_samsung_news():
-    """Get Samsung news from multiple sources"""
+    """Get Samsung news from sample data only"""
     news_data = []
-    
-    # Get news from the last 30 days to match stock data
-    end_date = datetime.now()
-    start_date = end_date - timedelta(days=30)
-    
-    print(f"Fetching Samsung news from {start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}")
-    
-    # News sources to try
-    sources = [
-        "https://www.reuters.com/search/news?blob=samsung",
-        "https://www.bloomberg.com/search?query=samsung",
-        "https://www.cnbc.com/search/?query=samsung"
-    ]
-    
-    # For demo purposes, let's create some sample news data that matches your stock dates
     sample_dates = [
         "2025-06-13", "2025-06-12", "2025-06-11", "2025-06-10", 
         "2025-06-09", "2025-06-06", "2025-06-05", "2025-06-04"
     ]
-    
     sample_headlines = [
         "Samsung Galaxy S25 Ultra receives rave reviews from tech critics",
         "Samsung announces new AI features for upcoming foldable phones",
@@ -49,25 +29,17 @@ def get_samsung_news():
         "Samsung announces new partnership with automotive industry",
         "Samsung's wearable technology gains market traction"
     ]
-    
-    # Create news data for each date
     for i, date in enumerate(sample_dates):
-        # Add 2-3 headlines per date
         for j in range(2):
             headline_idx = (i * 2 + j) % len(sample_headlines)
             news_data.append({
                 'date': date,
                 'headline': sample_headlines[headline_idx]
             })
-    
-    # Create DataFrame
     df = pd.DataFrame(news_data)
-    
-    # Save to CSV
     df.to_csv('samsung_news.csv', index=False)
-    print(f"✅ Saved {len(df)} news headlines to samsung_news.csv")
+    print(f"✅ Saved {len(df)} sample news headlines to samsung_news.csv")
     print(f"Date range: {df['date'].min()} to {df['date'].max()}")
-    
     return df
 
 if __name__ == "__main__":
